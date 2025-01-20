@@ -1,0 +1,1 @@
+import{TodoProvider as o}from"./context.8a917b9e.js";import{j as r}from"./index.295caa00.js";import"./api.b8516001.js";var t="/Users/xuwenhua/code/project/home-manage/src/pages/todo/layout.tsx";function i({children:e}){return r.exports.jsxDEV(o,{children:e},void 0,!1,{fileName:t,lineNumber:10,columnNumber:10},this)}export{i as default};

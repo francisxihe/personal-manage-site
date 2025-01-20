@@ -1,0 +1,1 @@
+import{ExpensesProvider as s}from"./expenses-context.9672601c.js";import{j as r}from"./index.295caa00.js";var o="/Users/xuwenhua/code/project/home-manage/src/pages/expenses/layout.tsx";function m({children:e}){return r.exports.jsxDEV(s,{children:e},void 0,!1,{fileName:o,lineNumber:7,columnNumber:5},this)}export{m as default};
